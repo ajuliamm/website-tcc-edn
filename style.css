@@ -4,3 +4,99 @@
     font-family: 'Krona One', sans-serif;
     
 }
+html{
+    font-size: 62.5%;
+}
+body{
+    background: rgb(17,33,73);
+    background: linear-gradient(90deg, rgba(17,33,73,1) 0%, rgba(16,49,102,1) 26%, rgba(17,63,122,1) 60%, rgba(17,75,139,1) 100%);
+    color: white;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15px;
+    align-items: center;
+    
+}
+.section-decription-edn{
+    background-image: url('./images/fundo-cloud.svg');
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.section-decription-edn p{
+    width: 40%;
+    font-size: 2.4rem;
+    text-align: center;
+}
+.section-decription-studant{
+    padding: 30px 10vw;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.info-studant{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+.info-studant img{
+    width: 100px;
+    
+}
+.info-studant-details{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 1.2rem;
+    
+}
+.links-box{
+    display: flex;
+    gap: 20px;
+}
+.links-box a{
+    color: white;
+ 
+}
+
+@media (max-width:1187px){
+    .section-decription-edn p{
+        width: 60%;
+        font-size: 2.4rem;
+        text-align: center;
+    }
+}
+@media (max-width:890px){
+    .section-decription-edn p{
+        width: 60%;
+        font-size: 2.0rem;
+        text-align: center;
+    }
+}
+@media (max-width:620px){
+    .section-decription-edn p{
+        width: 60%;
+        font-size: 1.8rem;
+        text-align: center;
+    }
+}
+@media (max-width:570px){
+    .section-decription-edn p{
+        width: 100%;
+        font-size: 1.8rem;
+        text-align: center;
+    }
+    .info-studant-details{
+        
+        font-size: 1.0rem;
+        
+    }
+}
