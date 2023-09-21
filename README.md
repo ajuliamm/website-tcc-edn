@@ -8,7 +8,7 @@ Desenvolvimento de um website (html, css, imagens) contendo os currículos do gr
 
 # TECNOLOGIAS
 
-** Amazon S3
+## Amazon S3
 
 ✔ O Amazon S3 é um serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e desempenho líderes do setor.
 
@@ -18,7 +18,9 @@ Desenvolvimento de um website (html, css, imagens) contendo os currículos do gr
 
 Utilzamos o serviço de Bucket do S3 para armazenar os objetos para a criação do site.
 
-** Amazon CloudFront: O Amazon CloudFront é um serviço de rede de entrega de conteúdo (CDN) criado para alta performance, segurança e conveniência do desenvolvedor.
+## Amazon CloudFront
+
+O Amazon CloudFront é um serviço de rede de entrega de conteúdo (CDN) criado para alta performance, segurança e conveniência do desenvolvedor.
 
 Utilizamos para criação de uma distrbuição que permite acessar o site amazenado no Bucket S3.
 
