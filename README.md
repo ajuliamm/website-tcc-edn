@@ -24,14 +24,21 @@ O Amazon CloudFront é um serviço de rede de entrega de conteúdo (CDN) criado 
 
 Utilizamos para criação de uma distrbuição que permite acessar o site amazenado no Bucket S3.
 
-Nome do Serviço 3: explicação simples do serviço utilizado
+## AWS Cost Management
+
+O AWS Cost Management tem recursos que você pode usar para orçamentar e prever custos e métodos para otimizar seus preços a fim de reduzir seus custos geraisAWSfatura.
+O AWS Cost Management está estreitamente integrado ao console de faturamento. Usando os dois juntos, você pode gerenciar seus custos de forma holística. Você pode usar os recursos do console de faturamento para gerenciar seus pagamentos contínuos eAWSRecursos do console de gerenciamento de custos para otimizar seus custos futuros. explicação simples do serviço utilizado
+
+Utilizamos para prever os custos para nossa proposta
+
+## Nome do Serviço 4
+
+explicação simples do serviço utilizado
 
 escrever nome do recurso que está sendo utilizado e objetivo
 
 escrever nome do recurso que está sendo utilizado e objetivo
+# ARQUITETURA
+# PROPOSTA
+# DIVULGAÇÃO DOS CURRÍCULOS
 
-Nome do Serviço 4: explicação simples do serviço utilizado
-
-escrever nome do recurso que está sendo utilizado e objetivo
-
-escrever nome do recurso que está sendo utilizado e objetivo
