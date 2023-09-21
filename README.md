@@ -11,7 +11,9 @@ Desenvolvimento de um website (html, css, imagens) contendo os currículos do gr
 Amazon S3
 
 ✔ O Amazon S3 é um serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e desempenho líderes do setor.
+
 ✔ Armazene e proteja qualquer quantidade de dados para casos de uso como data lakes, sites, aplicativos nativos de nuvem, backups, arquivamento, machine learning e análises.
+
 ✔ O Amazon S3 foi projetado para 99,999999999% (11 noves) de durabilidade e armazena dados de milhões de clientes para empresas em todo o mundo.
 
 Utilzamos o serviço de Bucket do S3 para armazenar os objetos para a criação do site.
