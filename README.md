@@ -24,12 +24,14 @@ O Amazon CloudFront é um serviço de rede de entrega de conteúdo (CDN) criado 
 
 Utilizamos para criação de uma distrbuição que permite acessar o site amazenado no Bucket S3.
 
-## AWS Cost Management
+## AWS Pricing Calculator
 
-O AWS Cost Management tem recursos que você pode usar para orçamentar e prever custos e métodos para otimizar seus preços a fim de reduzir seus custos geraisAWSfatura.
-O AWS Cost Management está estreitamente integrado ao console de faturamento. Usando os dois juntos, você pode gerenciar seus custos de forma holística. Você pode usar os recursos do console de faturamento para gerenciar seus pagamentos contínuos eAWSRecursos do console de gerenciamento de custos para otimizar seus custos futuros. explicação simples do serviço utilizado
+O AWS Pricing Calculator é utilizado pra estimar o custo para sua solução de arquitetura. Possibilita configurar uma estimativa de custo exclusivo que atenda às suas necessidades de negócios ou pessoais com produtos e serviços da AWS.
 
-Utilizamos para prever os custos para nossa proposta
+Utilizamos para prever os custos para nossa proposta de arquitetura.
+
+![image](https://github.com/ajuliamm/website-tcc-edn/assets/124359272/0f158d2d-f8f8-412a-99a1-950d95d5d85a)
+
 
 ## Nome do Serviço 4
 
