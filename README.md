@@ -41,6 +41,9 @@ escrever nome do recurso que está sendo utilizado e objetivo
 
 escrever nome do recurso que está sendo utilizado e objetivo
 # ARQUITETURA
+![image](https://github.com/ajuliamm/website-tcc-edn/assets/124359272/4e7c98bf-5124-4d14-a2d6-2188b2682558)
+
+
 # PROPOSTA
 # DIVULGAÇÃO DOS CURRÍCULOS
 
