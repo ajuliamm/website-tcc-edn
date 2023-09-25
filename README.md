@@ -45,5 +45,8 @@ escrever nome do recurso que está sendo utilizado e objetivo
 
 
 # PROPOSTA
+![image](https://github.com/ajuliamm/website-tcc-edn/assets/124359272/8d6ce762-0940-4fed-a6c4-dc784dd09353)
+
+
 # DIVULGAÇÃO DOS CURRÍCULOS
 
